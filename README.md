@@ -24,7 +24,7 @@ I am a Front-end Developer from Belarus.
 
 - :trophy: I completed RS School courses on JS/Front-end(RU) and Angular.
 
-- :couple: Participated in 3 team projects. 2 projects in React and one in Angular
+- :couple: Participated in 3 team projects. 2 projects in React and 1 in Angular
 
 - :parasol_on_ground: In my free time I enjoy drawing, meditation, computer games and reading books
 
